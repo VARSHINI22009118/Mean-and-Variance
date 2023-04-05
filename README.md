@@ -73,6 +73,10 @@ print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var) 
 ```
 
-# Results and Output : 
+#  Output : 
 ![proboutput](https://user-images.githubusercontent.com/119401150/229992329-e246e3bd-c723-46a9-afa5-c90f6593d7b1.png)
+
+# Results :
+
+The mean and variance of arrivals of objects from feeder using probability distribution is calculated
 
