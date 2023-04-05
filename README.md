@@ -72,3 +72,5 @@ print("The Variance of arrival from feeder is %.3f "%var)
 ```
 
 # Results and Output : 
+![proboutput](https://user-images.githubusercontent.com/119401150/229992329-e246e3bd-c723-46a9-afa5-c90f6593d7b1.png)
+
