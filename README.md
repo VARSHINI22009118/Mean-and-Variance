@@ -1,6 +1,6 @@
 #   Mean and variance of a discrete  distribution
-#   EXP NO:
-#   DATE :
+ EXP NO:
+ DATE :
 
 # Aim : 
 
