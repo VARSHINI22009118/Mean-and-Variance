@@ -1,7 +1,8 @@
 #   Mean and variance of a discrete  distribution
+ ```
  EXP NO:
  DATE :
-
+```
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
