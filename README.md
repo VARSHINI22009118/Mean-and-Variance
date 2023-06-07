@@ -5,7 +5,6 @@
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
 
-
 # Software required :  
 
 Python and Visual components tool
@@ -22,7 +21,6 @@ The variance of a random variable shows the variability or the scatterings of th
 It shows the distance of a random variable from its mean. It is calcualted as
 
 ![image](https://user-images.githubusercontent.com/103921593/192938695-99fedc01-34d5-4d36-84df-5880e766ed0c.png)
-
 
 # Procedure :
 
@@ -42,33 +40,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
   
       ![image](https://user-images.githubusercontent.com/103921593/192942852-913550a9-fabe-4a55-b956-0487b18bbd97.png)
 
-
 # Experiment :
 ![PROB EXP01](https://user-images.githubusercontent.com/119401150/229995355-67d16df8-ff1b-4eee-9b66-a402b4d9589a.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Program :
 ```python
